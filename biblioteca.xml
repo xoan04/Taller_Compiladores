@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Biblioteca>
+	<Libros>
+	
+		<Genero>
+			
+			<Suspenso>
+				<TituloLibro>"The Analyst"</TituloLibro>
+				<Publicacion>"2002"</Publicacion>
+				<Autor> "John Katzenbach"</Autor>
+			</Suspenso>
+			
+			<CienciaFiccion>
+				<TituloLibro> "Fahrenheit 451"</TituloLibro>
+				<Publicacion>"1953"</Publicacion>
+				<Autor>"Ray Bradbury"</Autor>
+			</CienciaFiccion>
+			
+			<Misterio>
+				<TituloLibro> "El silencio de la ciudad blanca"</TituloLibro>
+				<Publicacion>"2016"</Publicacion>
+				<Autor>"Eva Garcia Saenz de Urturi"</Autor>
+			</Misterio>
+			
+			<Romance>
+				<TituloLibro>"Eleanor and Park" </TituloLibro>
+				<Publicacion>"2012"</Publicacion>
+				<Autor>"Rainbow Rowell"</Autor>
+			</Romance>
+			
+			<Fantasia>
+				<TituloLibro>"El hobbit" </TituloLibro>
+				<Publicacion>"1937"</Publicacion>
+				<Autor>" J. R. R. Tolkien"</Autor>
+			</Fantasia>
+	
+	
+	
+		</Genero>
+
+
+	</Libros>
+</Biblioteca>
