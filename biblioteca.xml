@@ -1,43 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Biblioteca>
-	<Libros>
-	
-		<Genero>
 			
-			<Suspenso>
-				<TituloLibro>"The Analyst"</TituloLibro>
-				<Publicacion>"2002"</Publicacion>
-				<Autor> "John Katzenbach"</Autor>
-			</Suspenso>
-			
-			<CienciaFiccion>
-				<TituloLibro> "Fahrenheit 451"</TituloLibro>
-				<Publicacion>"1953"</Publicacion>
-				<Autor>"Ray Bradbury"</Autor>
-			</CienciaFiccion>
-			
-			<Misterio>
-				<TituloLibro> "El silencio de la ciudad blanca"</TituloLibro>
-				<Publicacion>"2016"</Publicacion>
-				<Autor>"Eva Garcia Saenz de Urturi"</Autor>
-			</Misterio>
-			
-			<Romance>
-				<TituloLibro>"Eleanor and Park" </TituloLibro>
-				<Publicacion>"2012"</Publicacion>
-				<Autor>"Rainbow Rowell"</Autor>
-			</Romance>
-			
-			<Fantasia>
-				<TituloLibro>"El hobbit" </TituloLibro>
-				<Publicacion>"1937"</Publicacion>
-				<Autor>" J. R. R. Tolkien"</Autor>
-			</Fantasia>
-	
-	
-	
-		</Genero>
+	<Libro Titulo="A buen fin no hay mal principio">
+		<Genero>Teatro</Genero>
+		<Publicacion>1741</Publicacion>
+		<Autor>William Shakespeare</Autor>
+	</Libro>
+	<Libro Titulo="A caballo por la pampa">
+		<Genero>Historia</Genero>
+		<Publicacion>1925</Publicacion>
+		<Autor>Alexander Caldeleugh</Autor>
+	</Libro>
+	<Libro Titulo="Abrojos">
+		<Genero>Poesia</Genero>
+		<Publicacion>1999</Publicacion>
+		<Autor>Ruben Dario</Autor>
+	</Libro>
 
+		
+	<Libro Titulo="Babel 17">
+		<Genero>Ciencia Ficcion </Genero>
+		<Publicacion>1966</Publicacion>
+		<Autor>Samuel R. Delanye</Autor>
+	</Libro>
+	<Libro Titulo="Bajo el barro">
+		<Genero>Terror</Genero>
+		<Publicacion>2020</Publicacion>
+		<Autor>Ruben Sanchez Trigos</Autor>
+	</Libro>
+	<Libro Titulo="Bajo la Hiedra">
+		<Genero>Fantasia</Genero>
+		<Publicacion>2011</Publicacion>
+		<Autor>Elspeth Cooper</Autor>
+	</Libro>
 
-	</Libros>
+		
+	<Libro Titulo="Cabal">
+		<Genero>Terror </Genero>
+		<Publicacion>1988</Publicacion>
+		<Autor>Clive Barker</Autor>
+	</Libro>
+	<Libro Titulo="Caballo de Troya">
+		<Genero>CienciaFiccion</Genero>
+		<Publicacion>1984</Publicacion>
+		<Autor>J. J. Benitez</Autor>
+	</Libro>
+	<Libro Titulo="Cada Dia">
+		<Genero>Fantasia</Genero>
+		<Publicacion>2012</Publicacion>
+		<Autor>David Levithan</Autor>
+	</Libro>
+
+		
+	<Libro Titulo="Daemon">
+		<Genero>CienciaFiccion </Genero>
+		<Publicacion>2006</Publicacion>
+		<Autor>Daniel Suarez</Autor>
+	</Libro>
+	<Libro Titulo="Danza De Tinieblas">
+		<Genero>Fantasia</Genero>
+		<Publicacion>2005</Publicacion>
+		<Autor>Eduardo Vaquerizo</Autor>
+	</Libro>
+	<Libro Titulo="Danza Macabra">
+		<Genero>Terror</Genero>
+		<Publicacion>1981</Publicacion>
+		<Autor>Stephen King</Autor>
+	</Libro>
+
 </Biblioteca>
