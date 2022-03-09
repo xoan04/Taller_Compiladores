@@ -30,7 +30,7 @@ class  Application(ttk.Frame):
                 "Si encuentra hijos insertamos el padre"
                 self.insert_treeview(hijo, padre=item)
             else:
-                """Sino seria ultimo nivel e insertamos valores de texto"""
+                "Sino seria ultimo nivel e insertamos valores de texto"
                 if(hijo.text != None):
                     self.treeview.insert(item, END, None, text=hijo.text)
 

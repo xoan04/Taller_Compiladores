@@ -1,68 +1,81 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Biblioteca>
 			
-	<Libro Titulo="A buen fin no hay mal principio">
+	<Libro> 
+		<Titulo> A buen fin no hay mal principio</Titulo>
 		<Genero>Teatro</Genero>
 		<Publicacion>1741</Publicacion>
 		<Autor>William Shakespeare</Autor>
 	</Libro>
-	<Libro Titulo="A caballo por la pampa">
+	<Libro>
+		<Titulo>A buen fin no hay mal principio</Titulo>
 		<Genero>Historia</Genero>
 		<Publicacion>1925</Publicacion>
 		<Autor>Alexander Caldeleugh</Autor>
 	</Libro>
-	<Libro Titulo="Abrojos">
+	<Libro>
+		<Titulo>A buen fin no hay mal principio</Titulo>
 		<Genero>Poesia</Genero>
 		<Publicacion>1999</Publicacion>
 		<Autor>Ruben Dario</Autor>
 	</Libro>
 
 		
-	<Libro Titulo="Babel 17">
+	<Libro>
+		<Titulo>A buen fin no hay mal principio</Titulo>
 		<Genero>Ciencia Ficcion </Genero>
 		<Publicacion>1966</Publicacion>
 		<Autor>Samuel R. Delanye</Autor>
 	</Libro>
-	<Libro Titulo="Bajo el barro">
+	<Libro>
+	 	<Titulo>A buen fin no hay mal principio</Titulo>
 		<Genero>Terror</Genero>
 		<Publicacion>2020</Publicacion>
 		<Autor>Ruben Sanchez Trigos</Autor>
 	</Libro>
-	<Libro Titulo="Bajo la Hiedra">
+
+	<Libro>
+		<Titulo>A buen fin no hay mal principio</Titulo>
 		<Genero>Fantasia</Genero>
 		<Publicacion>2011</Publicacion>
 		<Autor>Elspeth Cooper</Autor>
 	</Libro>
 
 		
-	<Libro Titulo="Cabal">
+	<Libro>
+		<Titulo>A buen fin no hay mal principio</Titulo>
 		<Genero>Terror </Genero>
 		<Publicacion>1988</Publicacion>
 		<Autor>Clive Barker</Autor>
 	</Libro>
-	<Libro Titulo="Caballo de Troya">
+	<Libro>
+		<Titulo>A buen fin no hay mal principio</Titulo>
 		<Genero>CienciaFiccion</Genero>
 		<Publicacion>1984</Publicacion>
 		<Autor>J. J. Benitez</Autor>
 	</Libro>
-	<Libro Titulo="Cada Dia">
+	<Libro>
+		<Titulo>A buen fin no hay mal principio</Titulo>
 		<Genero>Fantasia</Genero>
 		<Publicacion>2012</Publicacion>
 		<Autor>David Levithan</Autor>
 	</Libro>
 
 		
-	<Libro Titulo="Daemon">
+	<Libro>
+		<Titulo>Benitez</Titulo>
 		<Genero>CienciaFiccion </Genero>
 		<Publicacion>2006</Publicacion>
 		<Autor>Daniel Suarez</Autor>
 	</Libro>
-	<Libro Titulo="Danza De Tinieblas">
+	<Libro> 
+		<Titulo>Danza De Tinieblas</Titulo>
 		<Genero>Fantasia</Genero>
 		<Publicacion>2005</Publicacion>
 		<Autor>Eduardo Vaquerizo</Autor>
 	</Libro>
-	<Libro Titulo="Danza Macabra">
+	<Libro>
+		<Titulo>Danza Macabra</Titulo>
 		<Genero>Terror</Genero>
 		<Publicacion>1981</Publicacion>
 		<Autor>Stephen King</Autor>
