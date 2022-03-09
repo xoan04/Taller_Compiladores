@@ -13,8 +13,8 @@ class VentanaPrincipal(ttk.Frame):
         main_window.title("Biblioteca")
         main_window.geometry("500x500")
         self.treeview=ttk.Treeview(self)
-    for child in raiz:
-        print(child.tag, child.text)
+    for hijo in raiz:
+        print(hijo.tag, hijo.text)
         
 for Libro in raiz.findall('Libro'):
  genero = Libro.find('Genero').text
