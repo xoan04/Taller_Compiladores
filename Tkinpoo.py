@@ -1,8 +1,9 @@
+from inspect import Attribute
 from tkinter import *
 from tkinter import ttk, messagebox
 import xml.etree.ElementTree as ET
 
-class AppXmlInPy(ttk.Frame):
+class  Application(ttk.Frame):
 
     def __init__(self, main_window):
         
@@ -37,5 +38,5 @@ class AppXmlInPy(ttk.Frame):
                     self.treeview.insert(item, END, None, text=child.text)
 
 root = Tk()
-app = AppXmlInPy(root)
+app = Application(root)
 app.mainloop()
